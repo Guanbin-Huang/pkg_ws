@@ -1,0 +1,50 @@
+  - position:
+    - 0
+    - 0
+    - 0
+    id: 1
+    orientation:
+    - 1
+    - 0
+    - 0
+    - 0
+    pose_time: 1497960402209372412
+    has_covariance: false
+    sensor_measurements:
+    -
+        - /leica/odom
+        - nav_msgs/Odometry
+        - 1497960402255735784
+    -
+        - /orb_slam2_stereo/odom
+        - nav_msgs/Odometry
+        - 1497960402251985000
+    -
+        - /robot/odom
+        - nav_msgs/Odometry
+        - 1497960402209372412
+  - position:
+    - 0
+    - 0
+    - 0
+    id: 2
+    orientation:
+    - 1
+    - 0
+    - 0
+    - 0
+    pose_time: 1497960402309354587
+    has_covariance: false
+    sensor_measurements:
+    -
+        - /leica/odom
+        - nav_msgs/Odometry
+        - 1497960402308156069
+    -
+        - /orb_slam2_stereo/odom
+        - nav_msgs/Odometry
+        - 1497960402331985000
+    -
+        - /robot/odom
+        - nav_msgs/Odometry
+        - 1497960402309354587
